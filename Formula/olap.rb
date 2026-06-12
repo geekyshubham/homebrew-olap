@@ -1,8 +1,8 @@
 class Olap < Formula
   desc "Orchestrated loop architect/worker CLI with a Pi-powered TUI"
   homepage "https://github.com/geekyshubham/olap"
-  url "https://registry.npmjs.org/@geekyshubham/olap/-/olap-0.1.0.tgz"
-  sha256 "8f2fd6014fe12ef6a6f8a345661bbffe149a3bfff81b1f940e97618c9090321b"
+  url "https://registry.npmjs.org/@geekyshubham/olap/-/olap-0.1.1.tgz"
+  sha256 "8c2106b59001921c03fbf4e7ba89298199892a01810cd7f4bfc3e8ec346a55e1"
   license "MIT"
 
   depends_on "node@22"
